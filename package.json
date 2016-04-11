@@ -1,0 +1,19 @@
+{
+  "name": "vue-md-editor",
+  "version": "1.0.0",
+  "description": "vue markdown editor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "gulp-minify-css": "latest",
+    "gulp-rename": "latest",
+    "gulp-uglify": "latest"
+  },
+  "author": "zhoubhin",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp-minify-css": "^1.2.4"
+  }
+}
