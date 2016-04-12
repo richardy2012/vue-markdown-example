@@ -14,4 +14,4 @@ npm install 将会安装 gulp-minify-css、gulp-rename、gulp-uglify
 
 ##Gulpfile.js
 [Gulp](http://www.gulpjs.com.cn/)是一个前端自动化构建工具
-gulpfile.js包含了对js、css文件的压缩混淆与重命名的功能
+gulpfile.js包含了用于压缩和重命名js、css文件的模块
